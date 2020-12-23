@@ -1,0 +1,48 @@
+@media (max-width:670px) {
+  .flex-container {
+    display: flex;
+    flex-direction: column;
+    height:320px;
+    border: solid blue:
+
+  }
+
+  .container {
+    padding:0 20px;
+  }
+
+  .top-wrapper {
+    margin: 0 0;
+  }
+
+  .top-wrapper h1 {
+    font-size: 20px;
+  }
+
+  .container {
+    width: 100%;
+    margin:0;
+  }
+
+  .start {
+    text-align: justify;
+    margin:0;
+    padding:0 20px 20px 20px;
+  }
+
+  .start h1{
+    margin:0;
+  }
+
+  .start p{
+    margin:0;
+    padding:0:
+  }
+
+
+
+  .footer1 {
+    margin:0 20px;
+  }
+
+}
